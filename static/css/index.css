@@ -1,0 +1,9 @@
+body {
+    font-size: 15px;
+}
+body#main {
+    color: #333;
+    font-weight: 300;
+    line-height: 1.5;
+    background-color: #fff;
+}

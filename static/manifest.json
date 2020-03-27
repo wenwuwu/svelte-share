@@ -1,0 +1,10 @@
+{
+	"background_color": "#ffffff",
+	"theme_color": "#333333",
+	"name": "svelte-share",
+	"short_name": "svelte-share",
+	"display": "minimal-ui",
+	"start_url": "/",
+	"icons": [
+	]
+}
